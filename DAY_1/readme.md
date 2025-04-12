@@ -7,9 +7,6 @@
 3. Low-Level Operations
 4. Case-Sensitive
 
-## Compilation of program in C language
-
-![C Programming](C-Programming.svg)
 
 ##  Constants in C
 
