@@ -13,11 +13,10 @@ Our four-day workshop to strengthen your problem-solving skills and master Data 
 - Intro to problem solving (what is test case, time complexity, space complexity, TLE, functional programming)
 - Solving programming problems
 
-### Day 3: Data structure and Algorithm
-- Array
-- Searching
+### Day 3: Problem solving session 2
+- Practicing problems based on DSA
 
-### Day 4: Problem Solving Intermediate Session 2
+### Day 4: Problem Solving Session 3
 - Practicing problems based on DSA
 
 ## Contact 
