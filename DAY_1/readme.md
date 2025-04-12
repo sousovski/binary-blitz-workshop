@@ -1,4 +1,6 @@
-## C is a high-level programming language that was developed in the early 1970s by Dennis Ritchie at Bell Labs
+ ## C programming - Intro
+ 
+###  C is a high-level programming language that was developed in the early 1970s by Dennis Ritchie at Bell Labs
 
 ## Features of c programming language
 
@@ -7,6 +9,9 @@
 3. Low-Level Operations
 4. Case-Sensitive
 
+## Compilation of program in C language
+
+![C Programming](C-Programming.svg)
 
 ##  Constants in C
 
