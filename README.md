@@ -19,3 +19,6 @@ Our four-day workshop to strengthen your problem-solving skills and master Data 
 
 ### Day 4: Problem Solving Intermediate Session 2
 - Practicing problems based on DSA
+
+## Contact 
+👾 Bhaskar Jha (✉️ [@bhaxkar](mailto:bhaskarjha.info@gmail.com)  )
