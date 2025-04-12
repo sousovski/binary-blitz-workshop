@@ -1,4 +1,4 @@
-## C programming - Intro
+# C programming 
 
 C is a high-level programming language that was developed in the early 1970s by Dennis Ritchie at Bell Labs
 
