@@ -1,6 +1,6 @@
- ## C programming - Intro
- 
-###  C is a high-level programming language that was developed in the early 1970s by Dennis Ritchie at Bell Labs
+## C programming - Intro
+
+C is a high-level programming language that was developed in the early 1970s by Dennis Ritchie at Bell Labs
 
 ## Features of c programming language
 
@@ -205,3 +205,62 @@ void displayMessage() {
 }
 
 ```
+
+## C Input/Output Guide
+
+Input and output operations (I/O) are essential aspects of any programming language. In C, I/O operations are handled through functions defined in the standard library, specifically in the `<stdio.h>` header file.
+
+```c
+#include <stdio.h>  // Include this header for I/O functions
+```
+
+### Standard I/O Streams
+
+C provides three standard I/O streams:
+
+- `stdin` - Standard input (keyboard by default)
+- `stdout` - Standard output (screen by default)
+- `stderr` - Standard error (screen by default)
+
+These streams are of type `FILE*` and are automatically opened when a C program starts.
+
+### Input Functions
+
+**scanf()**
+
+`scanf()` reads formatted input from `stdin`:
+
+```c
+int scanf(const char *format, ...);
+```
+
+Example:
+```c
+int num;
+scanf("%d", &num);  // Read an integer from stdin
+```
+
+Format specifiers:
+- `%d` - Integer
+- `%f` - Float
+- `%lf` - Double
+- `%c` - Character
+- `%s` - String (be careful with buffer overflows)
+- `%x` - Hexadecimal
+
+
+### Output Functions
+
+**printf()**
+
+`printf()` writes formatted output to `stdout`:
+
+```c
+int printf(const char *format, ...);
+```
+
+Example:
+```c
+printf("The value is: %d\n", 42);  // Print formatted string to stdout
+```
+
