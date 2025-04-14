@@ -1,0 +1,14 @@
+HackerRank problem
+
+https://www.hackerrank.com/challenges/mini-max-sum/problem
+
+https://www.hackerrank.com/challenges/camelcase/problem
+
+CodeChef problem
+
+https://www.codechef.com/problems/TRUTHLIE
+
+
+LeetCode Problem
+
+https://leetcode.com/problems/missing-number/description/
